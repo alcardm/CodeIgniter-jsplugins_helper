@@ -80,7 +80,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <p>A simple helper to load .js and .css files.</p>
                 
                 <p>Copy the files on default locations.</p>
-                <p>Set you javascript plugins urls at:</p>
+                <p>Set your javascript plugins urls at:</p>
                 <code>application/config/jsplugins.php</code>
                 
                 <p>Load the helper on the controller: </p>
